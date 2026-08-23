@@ -41,7 +41,5 @@ I am a Full Stack Developer focused on building modern web applications using th
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SaifAmdad&theme=radical)
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SaifAmdad&theme=radical)
-</p>
+### 📊 GitHub Stats
+[![Saif's GitHub Stats](https://img.shields.io/badge/View%20My-GitHub%20Profile-181717?style=for-the-badge&logo=github)](https://github.com/SaifAmdad)
