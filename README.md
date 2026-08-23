@@ -87,9 +87,14 @@ I'm always open to collaboration, opportunities, and connecting with fellow deve
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="height:28px"/>
   </a>
 
-  <a href="https://hikmah.net/@saifamdad" target="_blank" style="display:flex; color:white; background-color:teal; padding:5px 10px; justify-content: center; align-items: center; height:18px">
+  <!-- <a href="https://hikmah.net/@saifamdad" target="_blank" style="display:flex; color:white; background-color:teal; padding:5px 10px; justify-content: center; align-items: center; height:18px">
     <img src="https://res.cloudinary.com/doyfzebxa/image/upload/v1787487478/hikmah_xnrf9h.png" alt="Hikmah" style="height:15px; border-radius:50%; margin-right:4px"/> <b>Hikmah</b>
-  </a>
+  </a> -->
+
+<a href="https://hikmah.net/@saifamdad" target="_blank">
+  <img src="https://img.shields.io/badge/Hikmah-Profile-1abc9c?style=for-the-badge" alt="Hikmah" />
+</a>
+
 
   <a href="https://www.facebook.com/saifamdad.co" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" style="height:28px"/>
