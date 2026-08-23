@@ -56,3 +56,8 @@ I am a Full Stack Developer focused on building modern web applications using th
 - 🔗 [View My GitHub Profile](https://github.com/SaifAmdad)
 - ⭐ Check out my repositories and contributions
 - 💡 Most of my work focuses on MERN stack projects
+
+### 📊 GitHub Stats
+
+![GitHub followers](https://img.shields.io/github/followers/SaifAmdad?style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/SaifAmdad?style=social)
