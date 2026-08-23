@@ -40,6 +40,19 @@ I am a Full Stack Developer focused on building modern web applications using th
 ---
 
 ### 📊 GitHub Stats
+[![Saif's GitHub Stats](https://img.shields.io/badge/View%20My-GitHub%20Profile-181717?style=for-the-badge&logo=github)](https://github.com/SaifAmdad)
+
+
+### 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Repositories-View%20All-blue?style=for-the-badge&logo=github" alt="Repositories" />
+  <img src="https://img.shields.io/badge/Profile%20Views-Count-brightgreen?style=for-the-badge" alt="Profile Views" />
+</p>
+
 
 ### 📊 GitHub Stats
-[![Saif's GitHub Stats](https://img.shields.io/badge/View%20My-GitHub%20Profile-181717?style=for-the-badge&logo=github)](https://github.com/SaifAmdad)
+
+- 🔗 [View My GitHub Profile](https://github.com/SaifAmdad)
+- ⭐ Check out my repositories and contributions
+- 💡 Most of my work focuses on MERN stack projects
